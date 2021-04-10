@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Roundcube Webmail 1.4.10 :: Bienvenue à Roundcube Webmail 1.4.10</title>
+<title></title><script>
+if (window.parent && parent.rcmail) {
+	parent.rcmail.add_label({"loading":"Chargement\u2026","servererror":"Erreur de serveur","connerror":"Erreur de connexion (n\u2019a pu atteindre le serveur)","requesttimedout":"D\u00e9lai de la requ\u00eate expir\u00e9","refreshing":"Actualisation\u2026","windowopenerror":"La fen\u00eatre surgissante a \u00e9t\u00e9 bloqu\u00e9e","uploadingmany":"T\u00e9l\u00e9versement des fichiers\u2026","uploading":"T\u00e9l\u00e9versement du fichier\u2026","close":"Fermer","save":"Enregistrer","cancel":"Annuler","alerttitle":"Attention","confirmationtitle":"\u00cates-vous certain\u2026","delete":"Supprimer","continue":"Continuer","ok":"OK"});
+	parent.rcmail.iframe_loaded("");
+	parent.rcmail.session_error("./?_task=login&_err=session");
+}
+</script>
+
+
+</head>
+<body>
+
+</body>
+</html>
